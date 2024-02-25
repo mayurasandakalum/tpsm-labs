@@ -12,3 +12,9 @@ g[-c(2, 4)]
 
 # ascending order
 sort(g)
+
+# get help about a function
+?sort
+
+# descending order
+sort(g, decreasing = TRUE)
